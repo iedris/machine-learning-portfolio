@@ -11,3 +11,4 @@ Multi-class chemical profile classification utilizing Gradient Boosted Decision 
 ## 📊 Results Summary
 * **Test Accuracy:** **97.22%**
 * **Model Serialization:** Architecture tested for cross-validation stability across chemical clusters.
+
