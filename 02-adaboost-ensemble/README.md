@@ -18,3 +18,4 @@ An exploration of Adaptive Boosting mechanics across heterogeneous weak learners
 | **Decision Tree** | Default AdaBoost | **81.5%** | **0.807** |
 | **Logistic Regression** | Linear Base Learner | 78.5% | 0.774 |
 | **Linear SVM** | GridSearch (`lr=0.1, n=25`) | 79.0% | 0.778 |
+
